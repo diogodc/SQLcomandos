@@ -1,0 +1,6 @@
+codCliente;primeiroNome;ultimomNome;sexo;dataNascimento;salario;logradouro;bairro;cidade;estado;pais;dataCadastro
+1;aaaa;zzzzz1;M;01/01/1989;900;Rua AAAAA;Bairro1;cidade 1;ES;Brasil;01/01/2016
+2;bbbb;zzzzz2;F;02/02/1989;1000;Rua BBBBB;Bairro2;cidade 2;RJ;Brasil;02/02/2016
+3;cccc;zzzzz3;M;03/03/1989;1100;Rua CCCCC;Bairro3;cidade 3;ES;Brasil;03/03/2016
+4;dddd;zzzzz4;F;04/04/1989;1200;Rua DDDDD;Bairro4;cidade 4;RJ;Brasil;04/04/2016
+5;eeee;zzzzz5;M;05/05/1989;1300;Rua EEEEE;Bairro5;cidade 5;ES;Brasil;05/05/2016
